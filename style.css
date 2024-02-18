@@ -1,0 +1,69 @@
+/* The max-width does exactly what it says, it sets a maximum width for the center content. The margin declaration is what centers the content in the browser window. The "0" sets the top and bottom margin to "0" and the "auto" sets the right and left margin to "auto" which is what actually centers the content. */
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background-image: linear-gradient(135deg, rgb(211, 94, 51),orange,rgb(118, 206, 235),rgb(15, 152, 220),rgba(16, 224, 243, 0.267),rgb(14, 176, 14) ,rgb(21, 227, 21));
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+summary {
+    font-size: 1.5rem;
+}
+
+ul li,
+dl,
+dt,
+dd {
+    font-size: 1.5rem;
+    list-style-type: disc;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+figcaption,
+legend,
+address {
+    font-size: 1.5rem;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+    font-size: 1.5rem;
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.5rem;
+    border-collapse: separate;
+}
+
+img,
+abbr,
+summary,
+button {
+    cursor: pointer;
+}
