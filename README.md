@@ -4,10 +4,7 @@
 
 👋 Hello, I'm Prashin Jignesh Parikh.
 
-🚀 Follow Me:
-
-- [LinkedIn]([https://www.linkedin.com/in/prashin-jignesh-parikh-44118124b/])
-
+🚀 Follow Me: [LinkedIn](https://www.linkedin.com/in/prashin-jignesh-parikh-44118124b/)
 ---
 
 ### Description
